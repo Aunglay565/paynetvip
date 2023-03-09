@@ -1,2 +1,0 @@
-# paynetvip
-vpn
